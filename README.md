@@ -1,0 +1,2 @@
+# chatgptMenu
+Cálculos basados en los datos de una persona, tales como peso, altura, edad, género, nivel de actividad física, objetivos y país de residencia, para calcular su índice de masa corporal (IMC) y determinar su estado de salud (bajo peso, peso saludable o sobrepeso). Luego, utilizando la API de ChatGPT, se solicita una recomendación de menú semanal personalizado, que se basa en los datos de la persona y sus objetivos nutricionales. Finalmente, se exporta la recomendación de menú semanal en formato Excel para su fácil visualización.
